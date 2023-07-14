@@ -6,12 +6,19 @@ Welcome to my GitHub profile! I am a passionate and driven Data Analyst with a s
 
 Skills:
 -Data cleaning, preprocessing, and transformation
+
 -Exploratory data analysis and visualization
+
 -Statistical analysis and hypothesis testing
+
 -SQL and database management
+
 -Python programming (Pandas, NumPy, Matplotlib, Seaborn)
+
 -Data visualization tools (Tableau, Power BI)
+
 -Strong problem-solving and critical thinking abilities
+
 -Excellent communication and collaboration skills
 
 Projects:
