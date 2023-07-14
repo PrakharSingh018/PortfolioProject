@@ -1,5 +1,7 @@
 Prakhar Singh
+
 Data Analyst
+
 Welcome to my GitHub profile! I am a passionate and driven Data Analyst with a strong foundation in data analysis techniques and a keen interest in extracting meaningful insights from complex datasets. With a thirst for continuous learning and a dedication to problem-solving, I am excited to contribute to data-driven projects and collaborate with like-minded professionals.
 
 Skills:
