@@ -4,6 +4,8 @@ From PortfolioProject1..deaths
 order by 3,4
 
 
+
+	
 --Select *
 --From PortfolioProject..vac 
 --order by 3,4
