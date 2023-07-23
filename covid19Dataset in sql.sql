@@ -23,16 +23,14 @@ order by 1,2
 
 
 --Total cases vs population
-SET ARITHABORT OFF;
-SET ANSI_WARNINGS OFF;
+
 Select Location, date, population, total_cases, (total_cases /population)*100 as deathpercentage
 From PortfolioProject1..deaths
 --Where location like '%india%' 
 order by 1,2
 
 --Countries with highest cases
-SET ARITHABORT OFF;
-SET ANSI_WARNINGS OFF;
+
 Select location, population, MAX(total_cases) as HighestInfectionCount , Max((total_cases /population ))*100 as PercentPopulationInfected
 From PortfolioProject1..deaths
 --Where location like '%states%'
