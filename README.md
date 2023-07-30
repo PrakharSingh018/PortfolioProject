@@ -11,7 +11,7 @@ Skills:
 
 -Statistical analysis and hypothesis testing
 
--SQL and database management
+-SQL and database management 
 
 -Python programming (Pandas, NumPy, Matplotlib, Seaborn)
 
